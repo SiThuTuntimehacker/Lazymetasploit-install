@@ -1,0 +1,49 @@
+figlet Creator
+figlet By
+figlet Sithu Tun
+
+
+ echo "
+ ____  _ _____ _
+/ ___|(_)_   _| |__  _   _
+\___ \| | | | | '_ \| | | |
+ ___) | | | | | | | | |_| |
+|____/|_| |_| |_| |_|\__,_| 
+~~~~https://www.facebook.com/TimeHacker.1998~~~~ "
+
+
+apt install git ruby ruby-dev make clang autoconf curl wget ncurses-utils libsqlite-dev postgresql postgresql-dev libpcap-dev libffi-dev libxslt-dev pkg-config
+
+pkg install ruby
+
+pkg update ruby
+
+apt install ruby
+
+git clone https://github.com/timwr/metasploit-framework.git
+
+cd metasploit-framework
+
+gem install bundler
+
+gem install nokogiri — —using-system-libraries 
+
+bundle install —gemfile Gemfile.local
+
+
+
+ls
+
+chmod +x *
+
+msfconsole
+
+exit
+
+bundle install
+
+gem install nokogiri — —using-system-libraries 
+
+bundle install —gemfile Gemfile.local
+
+msfconsole
